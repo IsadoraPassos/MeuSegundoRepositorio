@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-int main(){
+void imprimirBob(){
+	printf("Bob\n");
+}
 
+int main(){
+	
 	return 0;
 }
